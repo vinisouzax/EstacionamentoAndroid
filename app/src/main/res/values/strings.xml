@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EstacionamentoIF</string>
+    <string name="upload">upload</string>
+    <string name="share">share</string>
+    <string name="mail">mail</string>
+    <string name="cadastro">Cadastrar Veículo</string>
+    <string name="smsgeral">SMS para todos</string>
+</resources>
